@@ -1,14 +1,8 @@
 ## Tugas JAVA PBO KAMPUS
 
-1. Tentang OOP
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+No 1. Tentang method void, return, konstruktor , keyword "this“
+No 2. Tentang Class Pada Java
+No 3. Tentang method void, return, konstruktor , keyword "this“ menggunakan inputan Scanner
+No 4. Menampilkan Output Gaji
+No 5. Menghitung Nilai Rata-Rata
+No 6. Perbaiki Sebuah Program
